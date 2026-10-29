@@ -1,5 +1,5 @@
 /**
- * FacultySync AI - Client Interactions & Controller
+ * ClashAudit - Client Interactions & Controller
  * PDL Lab Mini Project
  */
 
@@ -45,7 +45,7 @@ async function switchScenario(key) {
       activeSchedule = data[key].schedule;
     }
   } catch (err) {
-    console.warn('[FacultySync] Using local scenario fallback:', err);
+    console.warn('[ClashAudit] Using local scenario fallback:', err);
     activeSchedule = getFallbackScenario(key);
   }
 
@@ -66,7 +66,7 @@ async function analyzeCurrentSchedule() {
     const report = await res.json();
     renderAnalysisReport(report);
   } catch (err) {
-    console.warn('[FacultySync] Analysis API fallback:', err);
+    console.warn('[ClashAudit] Analysis API fallback:', err);
     // Local fallback analysis
     renderAnalysisReport(localAnalyze(activeSchedule));
   }
@@ -234,7 +234,7 @@ async function applyResolution() {
       alert(`Success! Reassigned to ${topSuggestion.recommended_faculty || topSuggestion.recommended_room}. Conflict eliminated!`);
     }
   } catch (err) {
-    console.warn('[FacultySync] Resolution fallback:', err);
+    console.warn('[ClashAudit] Resolution fallback:', err);
     // Local resolution fallback
     const entry = activeSchedule.find(e => e.id === topSuggestion.entry_id);
     if (entry) {
@@ -303,7 +303,7 @@ async function handleStressPrediction(event) {
     const data = await res.json();
     renderStressResult(data);
   } catch (err) {
-    console.warn('[FacultySync] Stress predict fallback:', err);
+    console.warn('[ClashAudit] Stress predict fallback:', err);
     renderStressResult(localStressPredict(payload));
   }
 }

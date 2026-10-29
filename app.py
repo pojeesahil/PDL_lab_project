@@ -1,5 +1,5 @@
 """
-FacultySync AI - Faculty Workload Distribution & Conflict Detector
+ClashAudit - Faculty Workload Distribution & Conflict Detector
 PDL Lab Project - Practical Data Lab
 """
 
@@ -170,5 +170,5 @@ def model_info():
 
 if __name__ == '__main__':
     port = int(os.environ.get('PORT', 5000))
-    print(f"[*] Starting FacultySync AI on http://127.0.0.1:{port}")
+    print(f"[*] Starting ClashAudit on http://127.0.0.1:{port}")
     app.run(host='0.0.0.0', port=port, debug=False)

@@ -1,5 +1,5 @@
 """
-FacultySync AI - Terminal CLI Demonstration Script
+ClashAudit - Terminal CLI Demonstration Script
 Tests conflict detection, workload distribution, and ML burnout prediction from terminal.
 """
 
@@ -11,7 +11,7 @@ from core.scenarios import SCENARIOS
 
 def main():
     print("=" * 70)
-    print("   FACULTYSYNC AI: WORKLOAD DISTRIBUTION & CONFLICT DETECTOR")
+    print("   CLASHAUDIT: WORKLOAD DISTRIBUTION & CONFLICT DETECTOR")
     print("   PDL Lab Mini Project Demonstration")
     print("=" * 70)
 

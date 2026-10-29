@@ -1,4 +1,4 @@
-# 🎓 FacultySync AI — Faculty Workload Distribution & Conflict Detector
+# 🛡️ ClashAudit — Faculty Workload Distribution & Conflict Detector
 > **Python Data Lab (PDL) Mini Project** | Intelligent Timetable Conflict Detection, Workload Balancing & ML Burnout Risk Prediction
 
 An institutional operations dashboard engineered to automate academic timetable conflict detection, enforce AICTE/UGC workload limits, balance departmental teaching hours, and predict faculty burnout risk using machine learning.
@@ -115,7 +115,7 @@ python demo_cli.py
 Output:
 ```text
 ======================================================================
-   FACULTYSYNC AI: WORKLOAD DISTRIBUTION & CONFLICT DETECTOR
+   CLASHAUDIT: WORKLOAD DISTRIBUTION & CONFLICT DETECTOR
    PDL Lab Mini Project Demonstration
 ======================================================================
 

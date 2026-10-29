@@ -107,7 +107,7 @@ def train():
     feature_rankings.sort(key=lambda x: x['importance_score'], reverse=True)
 
     metadata = {
-        'model_name': 'FacultySync Workload Stress Classifier',
+        'model_name': 'ClashAudit Workload Stress Classifier',
         'algorithm': 'Logistic Regression Multi-Class Classifier',
         'accuracy': results['Logistic Regression']['accuracy'],
         'classes': ['Underloaded', 'Balanced', 'Overloaded'],
