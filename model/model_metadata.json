@@ -1,0 +1,177 @@
+{
+  "model_name": "FacultySync Workload Stress Classifier",
+  "algorithm": "Logistic Regression Multi-Class Classifier",
+  "accuracy": 96.25,
+  "classes": [
+    "Underloaded",
+    "Balanced",
+    "Overloaded"
+  ],
+  "dataset_summary": {
+    "total_faculty": 400,
+    "departments_count": 4,
+    "distribution": {
+      "underloaded": 98,
+      "balanced": 196,
+      "overloaded": 106
+    }
+  },
+  "benchmarks": {
+    "Random Forest": {
+      "accuracy": 91.25,
+      "precision": 92.58,
+      "recall": 91.25,
+      "f1_score": 91.19,
+      "cv_mean": 92.25,
+      "cv_std": 3.1,
+      "confusion_matrix": [
+        [
+          16,
+          4,
+          0
+        ],
+        [
+          0,
+          39,
+          0
+        ],
+        [
+          0,
+          3,
+          18
+        ]
+      ]
+    },
+    "Logistic Regression": {
+      "accuracy": 96.25,
+      "precision": 96.52,
+      "recall": 96.25,
+      "f1_score": 96.24,
+      "cv_mean": 95.5,
+      "cv_std": 1.7,
+      "confusion_matrix": [
+        [
+          19,
+          1,
+          0
+        ],
+        [
+          0,
+          39,
+          0
+        ],
+        [
+          0,
+          2,
+          19
+        ]
+      ]
+    },
+    "Decision Tree": {
+      "accuracy": 93.75,
+      "precision": 94.04,
+      "recall": 93.75,
+      "f1_score": 93.76,
+      "cv_mean": 90.0,
+      "cv_std": 3.95,
+      "confusion_matrix": [
+        [
+          18,
+          2,
+          0
+        ],
+        [
+          1,
+          38,
+          0
+        ],
+        [
+          0,
+          2,
+          19
+        ]
+      ]
+    },
+    "Gaussian Naive Bayes": {
+      "accuracy": 48.75,
+      "precision": 50.42,
+      "recall": 48.75,
+      "f1_score": 41.16,
+      "cv_mean": 53.5,
+      "cv_std": 2.15,
+      "confusion_matrix": [
+        [
+          20,
+          0,
+          0
+        ],
+        [
+          29,
+          4,
+          6
+        ],
+        [
+          1,
+          5,
+          15
+        ]
+      ]
+    }
+  },
+  "feature_importance": [
+    {
+      "feature": "AdminHours",
+      "importance_score": 1.6561,
+      "importance_percentage": 20.5
+    },
+    {
+      "feature": "TeachingHours",
+      "importance_score": 1.6268,
+      "importance_percentage": 20.1
+    },
+    {
+      "feature": "ResearchHours",
+      "importance_score": 1.3185,
+      "importance_percentage": 16.3
+    },
+    {
+      "feature": "LabHours",
+      "importance_score": 1.2177,
+      "importance_percentage": 15.1
+    },
+    {
+      "feature": "UniqueCourses",
+      "importance_score": 0.749,
+      "importance_percentage": 9.3
+    },
+    {
+      "feature": "DaysTaught",
+      "importance_score": 0.7057,
+      "importance_percentage": 8.7
+    },
+    {
+      "feature": "Designation_Professor",
+      "importance_score": 0.4205,
+      "importance_percentage": 5.2
+    },
+    {
+      "feature": "Designation_Associate Professor",
+      "importance_score": 0.3867,
+      "importance_percentage": 4.8
+    }
+  ],
+  "academic_guidelines": {
+    "Assistant Professor": {
+      "max_hours": 18,
+      "ideal_range": "14-18 hrs/week"
+    },
+    "Associate Professor": {
+      "max_hours": 16,
+      "ideal_range": "12-16 hrs/week"
+    },
+    "Professor": {
+      "max_hours": 14,
+      "ideal_range": "10-14 hrs/week"
+    }
+  }
+}

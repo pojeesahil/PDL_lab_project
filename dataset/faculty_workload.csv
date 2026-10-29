@@ -1,0 +1,401 @@
+FacultyID,Name,Department,Designation,TeachingHours,LabHours,AdminHours,ResearchHours,TotalHours,MaxPermissibleHours,UniqueCourses,DaysTaught,WorkloadRatio,StressLevel,StressLabel
+FAC_001,Dr. Naveen Nair,Computer Science (CSE),Assistant Professor,4,2,0,1,7,18,1,3,0.39,0,Underloaded
+FAC_002,Dr. Amit Singhal,Computer Science (CSE),Professor,4,1,3,2,10,14,1,3,0.71,0,Underloaded
+FAC_003,Dr. Alok Singhal,Information Technology (IT),Associate Professor,6,1,1,4,12,16,2,3,0.75,1,Balanced
+FAC_004,Dr. Rohan Patel,Information Technology (IT),Assistant Professor,6,3,0,3,12,18,2,3,0.67,1,Balanced
+FAC_005,Dr. Rohan Iyer,Electronics (ECE),Associate Professor,9,4,3,7,23,16,3,4,1.44,2,Overloaded
+FAC_006,Dr. Kavita Gupta,Computer Science (CSE),Professor,3,1,2,2,8,14,1,3,0.57,0,Underloaded
+FAC_007,Dr. Manish Joshi,Electronics (ECE),Assistant Professor,7,4,0,3,14,18,2,4,0.78,1,Balanced
+FAC_008,Dr. Meera Verma,Information Technology (IT),Associate Professor,4,2,1,2,9,16,1,3,0.56,0,Underloaded
+FAC_009,Dr. Swati Menon,Artificial Intelligence (AI-DS),Assistant Professor,13,7,0,2,22,18,4,6,1.22,2,Overloaded
+FAC_010,Dr. Amit Gupta,Artificial Intelligence (AI-DS),Professor,5,1,3,5,14,14,2,3,1.0,1,Balanced
+FAC_011,Dr. Swati Joshi,Electronics (ECE),Assistant Professor,8,2,0,3,13,18,2,3,0.72,1,Balanced
+FAC_012,Dr. Ananya Nair,Information Technology (IT),Assistant Professor,14,6,1,4,25,18,4,6,1.39,2,Overloaded
+FAC_013,Dr. Sanjay Joshi,Computer Science (CSE),Assistant Professor,6,3,0,1,10,18,2,3,0.56,0,Underloaded
+FAC_014,Dr. Neha Singhal,Information Technology (IT),Associate Professor,11,4,3,3,21,16,3,5,1.31,2,Overloaded
+FAC_015,Dr. Priya Choudhury,Information Technology (IT),Professor,11,3,7,2,23,14,3,4,1.64,2,Overloaded
+FAC_016,Dr. Divya Kulkarni,Electronics (ECE),Professor,7,1,5,6,19,14,2,3,1.36,2,Overloaded
+FAC_017,Dr. Amit Verma,Electronics (ECE),Assistant Professor,16,5,1,5,27,18,4,6,1.5,2,Overloaded
+FAC_018,Dr. Swati Deshmukh,Artificial Intelligence (AI-DS),Associate Professor,7,2,2,2,13,16,2,3,0.81,1,Balanced
+FAC_019,Dr. Alok Choudhury,Electronics (ECE),Assistant Professor,9,4,0,2,15,18,3,4,0.83,1,Balanced
+FAC_020,Dr. Amit Kulkarni,Computer Science (CSE),Associate Professor,2,1,0,4,7,16,1,3,0.44,0,Underloaded
+FAC_021,Dr. Amit Iyer,Artificial Intelligence (AI-DS),Professor,4,1,3,3,11,14,1,3,0.79,0,Underloaded
+FAC_022,Dr. Kunal Rao,Information Technology (IT),Assistant Professor,11,6,0,5,22,18,3,5,1.22,2,Overloaded
+FAC_023,Dr. Deepa Mishra,Computer Science (CSE),Assistant Professor,10,6,1,3,20,18,3,5,1.11,2,Overloaded
+FAC_024,Dr. Priya Menon,Information Technology (IT),Professor,4,1,4,4,13,14,1,3,0.93,1,Balanced
+FAC_025,Dr. Amit Mishra,Computer Science (CSE),Professor,7,2,4,2,15,14,2,3,1.07,2,Overloaded
+FAC_026,Dr. Sneha Singhal,Electronics (ECE),Associate Professor,7,2,2,6,17,16,2,3,1.06,2,Overloaded
+FAC_027,Dr. Sanjay Choudhury,Electronics (ECE),Assistant Professor,10,5,0,3,18,18,3,5,1.0,1,Balanced
+FAC_028,Dr. Neha Gupta,Computer Science (CSE),Associate Professor,5,2,2,5,14,16,2,3,0.88,1,Balanced
+FAC_029,Dr. Gaurav Deshmukh,Computer Science (CSE),Assistant Professor,3,1,0,3,7,18,1,3,0.39,0,Underloaded
+FAC_030,Dr. Manish Nair,Information Technology (IT),Associate Professor,2,1,0,3,6,16,1,3,0.38,0,Underloaded
+FAC_031,Dr. Rohan Gupta,Artificial Intelligence (AI-DS),Professor,6,1,4,3,14,14,2,3,1.0,1,Balanced
+FAC_032,Dr. Amit Sharma,Electronics (ECE),Assistant Professor,6,2,0,4,12,18,2,3,0.67,1,Balanced
+FAC_033,Dr. Kavita Verma,Information Technology (IT),Associate Professor,5,2,1,2,10,16,2,3,0.62,0,Underloaded
+FAC_034,Dr. Naveen Sharma,Artificial Intelligence (AI-DS),Assistant Professor,3,2,0,2,7,18,1,3,0.39,0,Underloaded
+FAC_035,Dr. Suresh Joshi,Artificial Intelligence (AI-DS),Assistant Professor,7,4,0,2,13,18,2,4,0.72,1,Balanced
+FAC_036,Dr. Rohan Iyer,Computer Science (CSE),Assistant Professor,9,5,1,4,19,18,3,4,1.06,2,Overloaded
+FAC_037,Dr. Rohan Deshmukh,Electronics (ECE),Associate Professor,5,2,2,3,12,16,2,3,0.75,1,Balanced
+FAC_038,Dr. Suresh Iyer,Artificial Intelligence (AI-DS),Associate Professor,2,1,1,3,7,16,1,3,0.44,0,Underloaded
+FAC_039,Dr. Ananya Bose,Information Technology (IT),Assistant Professor,8,4,0,2,14,18,2,4,0.78,1,Balanced
+FAC_040,Dr. Divya Patel,Information Technology (IT),Assistant Professor,13,4,1,3,21,18,4,5,1.17,2,Overloaded
+FAC_041,Dr. Arun Singhal,Information Technology (IT),Associate Professor,8,2,2,6,18,16,2,3,1.12,2,Overloaded
+FAC_042,Dr. Vikram Mishra,Artificial Intelligence (AI-DS),Associate Professor,8,4,2,6,20,16,2,4,1.25,2,Overloaded
+FAC_043,Dr. Rohan Verma,Artificial Intelligence (AI-DS),Associate Professor,7,2,3,4,16,16,2,3,1.0,1,Balanced
+FAC_044,Dr. Rohan Deshmukh,Artificial Intelligence (AI-DS),Professor,5,1,3,4,13,14,2,3,0.93,1,Balanced
+FAC_045,Dr. Gaurav Nair,Electronics (ECE),Assistant Professor,3,1,0,2,6,18,1,3,0.33,0,Underloaded
+FAC_046,Dr. Swati Gupta,Artificial Intelligence (AI-DS),Associate Professor,10,4,2,6,22,16,3,4,1.38,2,Overloaded
+FAC_047,Dr. Neha Choudhury,Electronics (ECE),Associate Professor,6,3,3,4,16,16,2,3,1.0,1,Balanced
+FAC_048,Dr. Meera Deshmukh,Artificial Intelligence (AI-DS),Associate Professor,9,4,3,5,21,16,3,4,1.31,2,Overloaded
+FAC_049,Dr. Naveen Kulkarni,Electronics (ECE),Associate Professor,7,3,2,4,16,16,2,3,1.0,1,Balanced
+FAC_050,Dr. Sneha Verma,Artificial Intelligence (AI-DS),Associate Professor,5,3,1,5,14,16,2,3,0.88,1,Balanced
+FAC_051,Dr. Neha Menon,Information Technology (IT),Professor,3,1,2,3,9,14,1,3,0.64,0,Underloaded
+FAC_052,Dr. Naveen Gupta,Electronics (ECE),Associate Professor,5,2,2,2,11,16,2,3,0.69,0,Underloaded
+FAC_053,Dr. Priya Singhal,Information Technology (IT),Professor,9,2,7,5,23,14,3,4,1.64,2,Overloaded
+FAC_054,Dr. Priya Mishra,Information Technology (IT),Assistant Professor,9,5,1,1,16,18,3,4,0.89,1,Balanced
+FAC_055,Dr. Divya Singhal,Electronics (ECE),Assistant Professor,8,4,1,2,15,18,2,4,0.83,1,Balanced
+FAC_056,Dr. Rohan Rao,Information Technology (IT),Associate Professor,3,1,1,3,8,16,1,3,0.5,0,Underloaded
+FAC_057,Dr. Amit Patel,Information Technology (IT),Professor,5,1,3,5,14,14,2,3,1.0,1,Balanced
+FAC_058,Dr. Sanjay Singhal,Computer Science (CSE),Professor,6,0,4,4,14,14,2,3,1.0,1,Balanced
+FAC_059,Dr. Kunal Reddy,Electronics (ECE),Professor,6,1,3,3,13,14,2,3,0.93,1,Balanced
+FAC_060,Dr. Shalini Menon,Electronics (ECE),Professor,4,1,3,4,12,14,1,3,0.86,1,Balanced
+FAC_061,Dr. Shalini Deshmukh,Electronics (ECE),Assistant Professor,13,6,1,7,27,18,4,6,1.5,2,Overloaded
+FAC_062,Dr. Rajesh Verma,Electronics (ECE),Professor,4,0,3,5,12,14,1,3,0.86,1,Balanced
+FAC_063,Dr. Arun Reddy,Artificial Intelligence (AI-DS),Assistant Professor,14,6,1,2,23,18,4,6,1.28,2,Overloaded
+FAC_064,Dr. Ananya Bose,Information Technology (IT),Assistant Professor,11,6,0,2,19,18,3,5,1.06,2,Overloaded
+FAC_065,Dr. Rajesh Patel,Information Technology (IT),Professor,6,1,3,4,14,14,2,3,1.0,1,Balanced
+FAC_066,Dr. Kavita Deshmukh,Computer Science (CSE),Assistant Professor,4,1,0,3,8,18,1,3,0.44,0,Underloaded
+FAC_067,Dr. Meera Reddy,Electronics (ECE),Assistant Professor,6,2,0,2,10,18,2,3,0.56,0,Underloaded
+FAC_068,Dr. Neha Nair,Computer Science (CSE),Associate Professor,5,3,1,5,14,16,2,3,0.88,1,Balanced
+FAC_069,Dr. Deepa Rao,Computer Science (CSE),Associate Professor,7,2,2,4,15,16,2,3,0.94,1,Balanced
+FAC_070,Dr. Naveen Joshi,Electronics (ECE),Associate Professor,9,3,4,5,21,16,3,4,1.31,2,Overloaded
+FAC_071,Dr. Rohan Mishra,Information Technology (IT),Assistant Professor,9,3,1,4,17,18,3,4,0.94,1,Balanced
+FAC_072,Dr. Sneha Rao,Information Technology (IT),Associate Professor,7,3,1,3,14,16,2,3,0.88,1,Balanced
+FAC_073,Dr. Rajesh Gupta,Computer Science (CSE),Professor,6,1,4,3,14,14,2,3,1.0,1,Balanced
+FAC_074,Dr. Ritu Mishra,Computer Science (CSE),Professor,4,1,2,4,11,14,1,3,0.79,0,Underloaded
+FAC_075,Dr. Swati Bose,Electronics (ECE),Assistant Professor,8,3,0,3,14,18,2,4,0.78,1,Balanced
+FAC_076,Dr. Priya Gupta,Artificial Intelligence (AI-DS),Professor,5,1,3,5,14,14,2,3,1.0,1,Balanced
+FAC_077,Dr. Shalini Choudhury,Computer Science (CSE),Assistant Professor,7,2,0,5,14,18,2,3,0.78,1,Balanced
+FAC_078,Dr. Rohan Iyer,Computer Science (CSE),Associate Professor,6,2,1,4,13,16,2,3,0.81,1,Balanced
+FAC_079,Dr. Rajesh Choudhury,Electronics (ECE),Associate Professor,5,2,1,4,12,16,2,3,0.75,1,Balanced
+FAC_080,Dr. Amit Reddy,Electronics (ECE),Professor,4,1,4,3,12,14,1,3,0.86,1,Balanced
+FAC_081,Dr. Amit Menon,Computer Science (CSE),Associate Professor,8,2,2,4,16,16,2,3,1.0,1,Balanced
+FAC_082,Dr. Sanjay Mishra,Artificial Intelligence (AI-DS),Assistant Professor,13,4,2,4,23,18,4,5,1.28,2,Overloaded
+FAC_083,Dr. Priya Gupta,Information Technology (IT),Associate Professor,2,1,0,4,7,16,1,3,0.44,0,Underloaded
+FAC_084,Dr. Sanjay Rao,Artificial Intelligence (AI-DS),Professor,5,1,3,4,13,14,2,3,0.93,1,Balanced
+FAC_085,Dr. Rohan Gupta,Electronics (ECE),Professor,3,0,1,3,7,14,1,3,0.5,0,Underloaded
+FAC_086,Dr. Sneha Choudhury,Artificial Intelligence (AI-DS),Associate Professor,7,3,2,2,14,16,2,3,0.88,1,Balanced
+FAC_087,Dr. Ritu Mishra,Computer Science (CSE),Associate Professor,10,3,2,7,22,16,3,4,1.38,2,Overloaded
+FAC_088,Dr. Meera Sharma,Artificial Intelligence (AI-DS),Associate Professor,8,4,3,4,19,16,2,4,1.19,2,Overloaded
+FAC_089,Dr. Sneha Singhal,Electronics (ECE),Assistant Professor,8,4,1,2,15,18,2,4,0.83,1,Balanced
+FAC_090,Dr. Arun Singhal,Electronics (ECE),Associate Professor,10,3,3,9,25,16,3,4,1.56,2,Overloaded
+FAC_091,Dr. Priya Reddy,Computer Science (CSE),Assistant Professor,7,4,0,4,15,18,2,4,0.83,1,Balanced
+FAC_092,Dr. Ritu Mishra,Computer Science (CSE),Professor,5,1,2,5,13,14,2,3,0.93,1,Balanced
+FAC_093,Dr. Naveen Menon,Information Technology (IT),Associate Professor,3,2,1,3,9,16,1,3,0.56,0,Underloaded
+FAC_094,Dr. Sanjay Nair,Information Technology (IT),Associate Professor,8,3,2,3,16,16,2,4,1.0,1,Balanced
+FAC_095,Dr. Ritu Menon,Electronics (ECE),Associate Professor,7,3,2,4,16,16,2,3,1.0,1,Balanced
+FAC_096,Dr. Rohan Singhal,Artificial Intelligence (AI-DS),Assistant Professor,9,5,1,3,18,18,3,4,1.0,1,Balanced
+FAC_097,Dr. Kunal Rao,Information Technology (IT),Associate Professor,6,2,2,4,14,16,2,3,0.88,1,Balanced
+FAC_098,Dr. Arun Gupta,Information Technology (IT),Associate Professor,3,2,1,3,9,16,1,3,0.56,0,Underloaded
+FAC_099,Dr. Manish Reddy,Information Technology (IT),Associate Professor,5,1,1,3,10,16,2,3,0.62,0,Underloaded
+FAC_100,Dr. Sanjay Nair,Electronics (ECE),Professor,5,0,3,3,11,14,2,3,0.79,0,Underloaded
+FAC_101,Dr. Rohan Kulkarni,Electronics (ECE),Assistant Professor,15,6,1,5,27,18,4,6,1.5,2,Overloaded
+FAC_102,Dr. Ritu Iyer,Computer Science (CSE),Professor,6,1,3,3,13,14,2,3,0.93,1,Balanced
+FAC_103,Dr. Priya Nair,Electronics (ECE),Professor,4,1,2,5,12,14,1,3,0.86,1,Balanced
+FAC_104,Dr. Kavita Singhal,Information Technology (IT),Professor,6,0,2,6,14,14,2,3,1.0,1,Balanced
+FAC_105,Dr. Manish Menon,Electronics (ECE),Assistant Professor,5,2,0,2,9,18,2,3,0.5,0,Underloaded
+FAC_106,Dr. Sanjay Choudhury,Information Technology (IT),Professor,8,1,4,6,19,14,2,3,1.36,2,Overloaded
+FAC_107,Dr. Neha Gupta,Electronics (ECE),Assistant Professor,5,2,0,2,9,18,2,3,0.5,0,Underloaded
+FAC_108,Dr. Neha Sharma,Electronics (ECE),Associate Professor,6,2,2,2,12,16,2,3,0.75,1,Balanced
+FAC_109,Dr. Neha Menon,Artificial Intelligence (AI-DS),Professor,3,0,2,3,8,14,1,3,0.57,0,Underloaded
+FAC_110,Dr. Suresh Nair,Computer Science (CSE),Associate Professor,7,2,3,4,16,16,2,3,1.0,1,Balanced
+FAC_111,Dr. Arun Singhal,Information Technology (IT),Professor,8,2,6,4,20,14,2,3,1.43,2,Overloaded
+FAC_112,Dr. Rohan Rao,Artificial Intelligence (AI-DS),Assistant Professor,6,2,0,4,12,18,2,3,0.67,1,Balanced
+FAC_113,Dr. Pooja Reddy,Artificial Intelligence (AI-DS),Professor,5,1,3,4,13,14,2,3,0.93,1,Balanced
+FAC_114,Dr. Meera Joshi,Electronics (ECE),Assistant Professor,12,5,1,2,20,18,3,5,1.11,2,Overloaded
+FAC_115,Dr. Swati Kulkarni,Information Technology (IT),Assistant Professor,9,3,0,3,15,18,3,4,0.83,1,Balanced
+FAC_116,Dr. Suresh Iyer,Computer Science (CSE),Associate Professor,5,2,1,4,12,16,2,3,0.75,1,Balanced
+FAC_117,Dr. Kavita Singhal,Information Technology (IT),Assistant Professor,10,4,1,3,18,18,3,4,1.0,1,Balanced
+FAC_118,Dr. Ananya Bose,Information Technology (IT),Associate Professor,9,4,3,6,22,16,3,4,1.38,2,Overloaded
+FAC_119,Dr. Naveen Bose,Computer Science (CSE),Associate Professor,3,1,0,2,6,16,1,3,0.38,0,Underloaded
+FAC_120,Dr. Vikram Sharma,Computer Science (CSE),Assistant Professor,4,1,0,2,7,18,1,3,0.39,0,Underloaded
+FAC_121,Dr. Swati Gupta,Information Technology (IT),Assistant Professor,4,2,0,1,7,18,1,3,0.39,0,Underloaded
+FAC_122,Dr. Suresh Patel,Artificial Intelligence (AI-DS),Assistant Professor,3,1,0,2,6,18,1,3,0.33,0,Underloaded
+FAC_123,Dr. Kunal Kulkarni,Computer Science (CSE),Professor,4,0,2,5,11,14,1,3,0.79,0,Underloaded
+FAC_124,Dr. Sanjay Bose,Computer Science (CSE),Associate Professor,4,2,1,3,10,16,1,3,0.62,0,Underloaded
+FAC_125,Dr. Gaurav Choudhury,Electronics (ECE),Assistant Professor,5,2,0,2,9,18,2,3,0.5,0,Underloaded
+FAC_126,Dr. Alok Mishra,Computer Science (CSE),Assistant Professor,6,3,0,4,13,18,2,3,0.72,1,Balanced
+FAC_127,Dr. Swati Kulkarni,Electronics (ECE),Assistant Professor,8,3,1,3,15,18,2,4,0.83,1,Balanced
+FAC_128,Dr. Priya Gupta,Electronics (ECE),Associate Professor,4,1,1,2,8,16,1,3,0.5,0,Underloaded
+FAC_129,Dr. Arun Singhal,Artificial Intelligence (AI-DS),Assistant Professor,7,3,0,3,13,18,2,3,0.72,1,Balanced
+FAC_130,Dr. Amit Verma,Electronics (ECE),Professor,5,1,3,3,12,14,2,3,0.86,1,Balanced
+FAC_131,Dr. Arun Nair,Electronics (ECE),Associate Professor,7,3,2,3,15,16,2,3,0.94,1,Balanced
+FAC_132,Dr. Divya Choudhury,Artificial Intelligence (AI-DS),Professor,5,0,2,5,12,14,2,3,0.86,1,Balanced
+FAC_133,Dr. Swati Bose,Computer Science (CSE),Assistant Professor,10,5,1,2,18,18,3,5,1.0,1,Balanced
+FAC_134,Dr. Divya Sharma,Artificial Intelligence (AI-DS),Professor,6,1,2,4,13,14,2,3,0.93,1,Balanced
+FAC_135,Dr. Suresh Reddy,Computer Science (CSE),Professor,4,1,3,4,12,14,1,3,0.86,1,Balanced
+FAC_136,Dr. Sanjay Kulkarni,Information Technology (IT),Associate Professor,7,3,1,5,16,16,2,3,1.0,1,Balanced
+FAC_137,Dr. Divya Iyer,Computer Science (CSE),Associate Professor,7,2,1,5,15,16,2,3,0.94,1,Balanced
+FAC_138,Dr. Gaurav Nair,Artificial Intelligence (AI-DS),Associate Professor,7,3,1,5,16,16,2,3,1.0,1,Balanced
+FAC_139,Dr. Manish Iyer,Computer Science (CSE),Professor,7,1,3,6,17,14,2,3,1.21,2,Overloaded
+FAC_140,Dr. Ritu Singhal,Information Technology (IT),Professor,5,1,3,3,12,14,2,3,0.86,1,Balanced
+FAC_141,Dr. Amit Reddy,Computer Science (CSE),Associate Professor,6,2,1,3,12,16,2,3,0.75,1,Balanced
+FAC_142,Dr. Alok Singhal,Artificial Intelligence (AI-DS),Professor,3,1,2,2,8,14,1,3,0.57,0,Underloaded
+FAC_143,Dr. Alok Bose,Computer Science (CSE),Associate Professor,4,1,1,3,9,16,1,3,0.56,0,Underloaded
+FAC_144,Dr. Neha Kulkarni,Information Technology (IT),Associate Professor,4,2,1,3,10,16,1,3,0.62,0,Underloaded
+FAC_145,Dr. Kavita Bose,Information Technology (IT),Professor,2,0,2,3,7,14,1,3,0.5,0,Underloaded
+FAC_146,Dr. Amit Deshmukh,Electronics (ECE),Associate Professor,7,3,2,4,16,16,2,3,1.0,1,Balanced
+FAC_147,Dr. Naveen Kulkarni,Artificial Intelligence (AI-DS),Professor,4,1,2,2,9,14,1,3,0.64,0,Underloaded
+FAC_148,Dr. Kavita Verma,Artificial Intelligence (AI-DS),Associate Professor,4,1,1,2,8,16,1,3,0.5,0,Underloaded
+FAC_149,Dr. Amit Reddy,Electronics (ECE),Associate Professor,7,3,2,5,17,16,2,3,1.06,2,Overloaded
+FAC_150,Dr. Arun Rao,Information Technology (IT),Assistant Professor,11,4,1,2,18,18,3,5,1.0,1,Balanced
+FAC_151,Dr. Gaurav Deshmukh,Computer Science (CSE),Professor,5,1,3,4,13,14,2,3,0.93,1,Balanced
+FAC_152,Dr. Neha Reddy,Electronics (ECE),Assistant Professor,7,3,0,2,12,18,2,3,0.67,1,Balanced
+FAC_153,Dr. Priya Reddy,Artificial Intelligence (AI-DS),Associate Professor,8,3,2,6,19,16,2,4,1.19,2,Overloaded
+FAC_154,Dr. Kavita Choudhury,Electronics (ECE),Professor,4,1,3,4,12,14,1,3,0.86,1,Balanced
+FAC_155,Dr. Suresh Verma,Electronics (ECE),Associate Professor,3,1,1,3,8,16,1,3,0.5,0,Underloaded
+FAC_156,Dr. Ritu Gupta,Information Technology (IT),Assistant Professor,5,1,0,2,8,18,2,3,0.44,0,Underloaded
+FAC_157,Dr. Shalini Iyer,Artificial Intelligence (AI-DS),Assistant Professor,8,3,1,4,16,18,2,4,0.89,1,Balanced
+FAC_158,Dr. Divya Deshmukh,Electronics (ECE),Professor,5,1,3,5,14,14,2,3,1.0,1,Balanced
+FAC_159,Dr. Shalini Mishra,Information Technology (IT),Associate Professor,8,2,2,3,15,16,2,3,0.94,1,Balanced
+FAC_160,Dr. Kunal Mishra,Electronics (ECE),Assistant Professor,15,9,2,1,27,18,4,6,1.5,2,Overloaded
+FAC_161,Dr. Divya Patel,Artificial Intelligence (AI-DS),Professor,5,0,4,4,13,14,2,3,0.93,1,Balanced
+FAC_162,Dr. Priya Choudhury,Computer Science (CSE),Assistant Professor,8,4,1,3,16,18,2,4,0.89,1,Balanced
+FAC_163,Dr. Pooja Mishra,Artificial Intelligence (AI-DS),Assistant Professor,8,3,1,3,15,18,2,4,0.83,1,Balanced
+FAC_164,Dr. Kavita Menon,Computer Science (CSE),Associate Professor,5,2,1,3,11,16,2,3,0.69,0,Underloaded
+FAC_165,Dr. Neha Rao,Information Technology (IT),Assistant Professor,8,3,0,5,16,18,2,4,0.89,1,Balanced
+FAC_166,Dr. Suresh Singhal,Computer Science (CSE),Assistant Professor,3,1,0,2,6,18,1,3,0.33,0,Underloaded
+FAC_167,Dr. Sanjay Verma,Computer Science (CSE),Assistant Professor,8,4,0,4,16,18,2,4,0.89,1,Balanced
+FAC_168,Dr. Suresh Choudhury,Electronics (ECE),Professor,5,1,2,6,14,14,2,3,1.0,1,Balanced
+FAC_169,Dr. Kavita Verma,Computer Science (CSE),Associate Professor,8,2,1,4,15,16,2,3,0.94,1,Balanced
+FAC_170,Dr. Amit Bose,Information Technology (IT),Assistant Professor,10,5,0,3,18,18,3,5,1.0,1,Balanced
+FAC_171,Dr. Kavita Kulkarni,Information Technology (IT),Assistant Professor,9,3,0,5,17,18,3,4,0.94,1,Balanced
+FAC_172,Dr. Alok Mishra,Computer Science (CSE),Associate Professor,3,1,0,3,7,16,1,3,0.44,0,Underloaded
+FAC_173,Dr. Manish Rao,Artificial Intelligence (AI-DS),Professor,5,1,4,3,13,14,2,3,0.93,1,Balanced
+FAC_174,Dr. Arun Joshi,Computer Science (CSE),Assistant Professor,9,5,0,1,15,18,3,4,0.83,1,Balanced
+FAC_175,Dr. Sneha Rao,Electronics (ECE),Associate Professor,10,4,2,5,21,16,3,4,1.31,2,Overloaded
+FAC_176,Dr. Divya Deshmukh,Artificial Intelligence (AI-DS),Associate Professor,4,2,1,4,11,16,1,3,0.69,0,Underloaded
+FAC_177,Dr. Sneha Mishra,Artificial Intelligence (AI-DS),Associate Professor,6,2,2,4,14,16,2,3,0.88,1,Balanced
+FAC_178,Dr. Ananya Verma,Electronics (ECE),Associate Professor,10,3,3,3,19,16,3,4,1.19,2,Overloaded
+FAC_179,Dr. Sanjay Iyer,Information Technology (IT),Professor,8,2,4,6,20,14,2,3,1.43,2,Overloaded
+FAC_180,Dr. Suresh Mishra,Artificial Intelligence (AI-DS),Associate Professor,9,3,3,4,19,16,3,4,1.19,2,Overloaded
+FAC_181,Dr. Pooja Nair,Computer Science (CSE),Assistant Professor,9,3,1,2,15,18,3,4,0.83,1,Balanced
+FAC_182,Dr. Alok Mishra,Information Technology (IT),Assistant Professor,7,3,0,5,15,18,2,3,0.83,1,Balanced
+FAC_183,Dr. Sneha Mishra,Computer Science (CSE),Assistant Professor,14,7,1,2,24,18,4,6,1.33,2,Overloaded
+FAC_184,Dr. Neha Choudhury,Information Technology (IT),Assistant Professor,13,5,0,3,21,18,4,6,1.17,2,Overloaded
+FAC_185,Dr. Vikram Patel,Information Technology (IT),Assistant Professor,5,2,0,3,10,18,2,3,0.56,0,Underloaded
+FAC_186,Dr. Suresh Verma,Computer Science (CSE),Associate Professor,11,5,4,4,24,16,3,5,1.5,2,Overloaded
+FAC_187,Dr. Amit Patel,Artificial Intelligence (AI-DS),Assistant Professor,9,3,1,4,17,18,3,4,0.94,1,Balanced
+FAC_188,Dr. Swati Deshmukh,Information Technology (IT),Associate Professor,8,3,2,4,17,16,2,4,1.06,2,Overloaded
+FAC_189,Dr. Sneha Kulkarni,Information Technology (IT),Associate Professor,11,3,3,4,21,16,3,4,1.31,2,Overloaded
+FAC_190,Dr. Swati Joshi,Information Technology (IT),Assistant Professor,6,2,1,3,12,18,2,3,0.67,1,Balanced
+FAC_191,Dr. Suresh Deshmukh,Artificial Intelligence (AI-DS),Assistant Professor,11,3,1,3,18,18,3,4,1.0,1,Balanced
+FAC_192,Dr. Kunal Joshi,Information Technology (IT),Assistant Professor,8,5,0,4,17,18,2,4,0.94,1,Balanced
+FAC_193,Dr. Naveen Choudhury,Electronics (ECE),Professor,8,1,4,8,21,14,2,3,1.5,2,Overloaded
+FAC_194,Dr. Sanjay Singhal,Electronics (ECE),Associate Professor,5,2,2,4,13,16,2,3,0.81,1,Balanced
+FAC_195,Dr. Kavita Reddy,Information Technology (IT),Assistant Professor,6,3,0,3,12,18,2,3,0.67,1,Balanced
+FAC_196,Dr. Pooja Patel,Computer Science (CSE),Professor,8,2,4,7,21,14,2,3,1.5,2,Overloaded
+FAC_197,Dr. Arun Kulkarni,Information Technology (IT),Assistant Professor,9,5,0,2,16,18,3,4,0.89,1,Balanced
+FAC_198,Dr. Amit Reddy,Electronics (ECE),Assistant Professor,4,1,0,3,8,18,1,3,0.44,0,Underloaded
+FAC_199,Dr. Naveen Rao,Artificial Intelligence (AI-DS),Associate Professor,9,4,3,7,23,16,3,4,1.44,2,Overloaded
+FAC_200,Dr. Manish Bose,Computer Science (CSE),Associate Professor,5,2,1,5,13,16,2,3,0.81,1,Balanced
+FAC_201,Dr. Sanjay Joshi,Computer Science (CSE),Professor,3,0,2,3,8,14,1,3,0.57,0,Underloaded
+FAC_202,Dr. Suresh Gupta,Electronics (ECE),Associate Professor,3,1,1,2,7,16,1,3,0.44,0,Underloaded
+FAC_203,Dr. Suresh Patel,Artificial Intelligence (AI-DS),Assistant Professor,9,4,0,2,15,18,3,4,0.83,1,Balanced
+FAC_204,Dr. Arun Rao,Artificial Intelligence (AI-DS),Associate Professor,4,1,1,2,8,16,1,3,0.5,0,Underloaded
+FAC_205,Dr. Shalini Sharma,Electronics (ECE),Associate Professor,7,3,2,4,16,16,2,3,1.0,1,Balanced
+FAC_206,Dr. Sneha Reddy,Information Technology (IT),Assistant Professor,6,2,0,2,10,18,2,3,0.56,0,Underloaded
+FAC_207,Dr. Arun Singhal,Information Technology (IT),Associate Professor,5,2,1,2,10,16,2,3,0.62,0,Underloaded
+FAC_208,Dr. Shalini Iyer,Information Technology (IT),Associate Professor,7,2,1,5,15,16,2,3,0.94,1,Balanced
+FAC_209,Dr. Swati Kulkarni,Artificial Intelligence (AI-DS),Assistant Professor,13,5,0,5,23,18,4,6,1.28,2,Overloaded
+FAC_210,Dr. Swati Choudhury,Information Technology (IT),Assistant Professor,13,6,1,3,23,18,4,6,1.28,2,Overloaded
+FAC_211,Dr. Ritu Bose,Artificial Intelligence (AI-DS),Associate Professor,7,3,2,4,16,16,2,3,1.0,1,Balanced
+FAC_212,Dr. Suresh Choudhury,Computer Science (CSE),Associate Professor,7,3,2,2,14,16,2,3,0.88,1,Balanced
+FAC_213,Dr. Vikram Gupta,Artificial Intelligence (AI-DS),Assistant Professor,6,4,0,3,13,18,2,3,0.72,1,Balanced
+FAC_214,Dr. Ananya Menon,Information Technology (IT),Professor,5,1,3,5,14,14,2,3,1.0,1,Balanced
+FAC_215,Dr. Swati Deshmukh,Electronics (ECE),Assistant Professor,14,5,2,5,26,18,4,6,1.44,2,Overloaded
+FAC_216,Dr. Arun Choudhury,Computer Science (CSE),Assistant Professor,5,3,0,2,10,18,2,3,0.56,0,Underloaded
+FAC_217,Dr. Ananya Deshmukh,Electronics (ECE),Assistant Professor,3,1,0,2,6,18,1,3,0.33,0,Underloaded
+FAC_218,Dr. Shalini Choudhury,Computer Science (CSE),Professor,5,1,3,3,12,14,2,3,0.86,1,Balanced
+FAC_219,Dr. Naveen Rao,Information Technology (IT),Assistant Professor,8,3,0,2,13,18,2,4,0.72,1,Balanced
+FAC_220,Dr. Naveen Joshi,Information Technology (IT),Professor,5,1,2,5,13,14,2,3,0.93,1,Balanced
+FAC_221,Dr. Naveen Reddy,Electronics (ECE),Associate Professor,4,2,1,4,11,16,1,3,0.69,0,Underloaded
+FAC_222,Dr. Pooja Sharma,Artificial Intelligence (AI-DS),Associate Professor,7,2,2,3,14,16,2,3,0.88,1,Balanced
+FAC_223,Dr. Rajesh Joshi,Artificial Intelligence (AI-DS),Assistant Professor,3,1,0,2,6,18,1,3,0.33,0,Underloaded
+FAC_224,Dr. Alok Choudhury,Computer Science (CSE),Assistant Professor,14,5,0,5,24,18,4,6,1.33,2,Overloaded
+FAC_225,Dr. Suresh Mishra,Artificial Intelligence (AI-DS),Associate Professor,7,3,2,3,15,16,2,3,0.94,1,Balanced
+FAC_226,Dr. Pooja Verma,Electronics (ECE),Associate Professor,6,3,3,4,16,16,2,3,1.0,1,Balanced
+FAC_227,Dr. Vikram Patel,Information Technology (IT),Associate Professor,6,2,1,3,12,16,2,3,0.75,1,Balanced
+FAC_228,Dr. Gaurav Mishra,Computer Science (CSE),Associate Professor,7,3,2,3,15,16,2,3,0.94,1,Balanced
+FAC_229,Dr. Neha Sharma,Electronics (ECE),Associate Professor,3,1,0,3,7,16,1,3,0.44,0,Underloaded
+FAC_230,Dr. Amit Iyer,Computer Science (CSE),Assistant Professor,7,4,1,2,14,18,2,4,0.78,1,Balanced
+FAC_231,Dr. Shalini Singhal,Artificial Intelligence (AI-DS),Assistant Professor,11,4,0,3,18,18,3,5,1.0,1,Balanced
+FAC_232,Dr. Meera Patel,Artificial Intelligence (AI-DS),Professor,9,2,4,6,21,14,3,4,1.5,2,Overloaded
+FAC_233,Dr. Rajesh Sharma,Artificial Intelligence (AI-DS),Associate Professor,7,3,1,4,15,16,2,3,0.94,1,Balanced
+FAC_234,Dr. Kavita Patel,Artificial Intelligence (AI-DS),Professor,5,1,4,6,16,14,2,3,1.14,2,Overloaded
+FAC_235,Dr. Rajesh Menon,Information Technology (IT),Professor,5,1,2,5,13,14,2,3,0.93,1,Balanced
+FAC_236,Dr. Shalini Iyer,Electronics (ECE),Associate Professor,5,2,1,4,12,16,2,3,0.75,1,Balanced
+FAC_237,Dr. Shalini Kulkarni,Artificial Intelligence (AI-DS),Professor,8,1,4,10,23,14,2,3,1.64,2,Overloaded
+FAC_238,Dr. Kunal Deshmukh,Electronics (ECE),Associate Professor,4,1,1,2,8,16,1,3,0.5,0,Underloaded
+FAC_239,Dr. Arun Singhal,Electronics (ECE),Professor,5,1,3,5,14,14,2,3,1.0,1,Balanced
+FAC_240,Dr. Alok Patel,Electronics (ECE),Assistant Professor,8,3,0,4,15,18,2,4,0.83,1,Balanced
+FAC_241,Dr. Vikram Kulkarni,Computer Science (CSE),Assistant Professor,11,6,0,3,20,18,3,5,1.11,2,Overloaded
+FAC_242,Dr. Manish Iyer,Computer Science (CSE),Professor,8,1,7,7,23,14,2,3,1.64,2,Overloaded
+FAC_243,Dr. Neha Sharma,Information Technology (IT),Assistant Professor,12,6,1,1,20,18,3,6,1.11,2,Overloaded
+FAC_244,Dr. Alok Gupta,Electronics (ECE),Assistant Professor,9,4,1,4,18,18,3,4,1.0,1,Balanced
+FAC_245,Dr. Neha Joshi,Artificial Intelligence (AI-DS),Associate Professor,6,2,2,2,12,16,2,3,0.75,1,Balanced
+FAC_246,Dr. Arun Gupta,Artificial Intelligence (AI-DS),Associate Professor,3,1,1,2,7,16,1,3,0.44,0,Underloaded
+FAC_247,Dr. Kunal Singhal,Artificial Intelligence (AI-DS),Professor,5,0,3,5,13,14,2,3,0.93,1,Balanced
+FAC_248,Dr. Meera Kulkarni,Artificial Intelligence (AI-DS),Assistant Professor,10,4,0,3,17,18,3,4,0.94,1,Balanced
+FAC_249,Dr. Kavita Deshmukh,Information Technology (IT),Assistant Professor,10,5,0,1,16,18,3,5,0.89,1,Balanced
+FAC_250,Dr. Amit Iyer,Computer Science (CSE),Associate Professor,8,3,2,7,20,16,2,4,1.25,2,Overloaded
+FAC_251,Dr. Sanjay Bose,Computer Science (CSE),Assistant Professor,10,4,0,2,16,18,3,4,0.89,1,Balanced
+FAC_252,Dr. Swati Singhal,Computer Science (CSE),Professor,6,0,4,4,14,14,2,3,1.0,1,Balanced
+FAC_253,Dr. Meera Singhal,Information Technology (IT),Professor,2,0,1,4,7,14,1,3,0.5,0,Underloaded
+FAC_254,Dr. Kavita Joshi,Electronics (ECE),Professor,9,3,5,5,22,14,3,4,1.57,2,Overloaded
+FAC_255,Dr. Meera Verma,Computer Science (CSE),Professor,5,1,4,4,14,14,2,3,1.0,1,Balanced
+FAC_256,Dr. Amit Rao,Electronics (ECE),Assistant Professor,11,6,1,0,18,18,3,5,1.0,1,Balanced
+FAC_257,Dr. Pooja Gupta,Electronics (ECE),Associate Professor,11,4,2,4,21,16,3,5,1.31,2,Overloaded
+FAC_258,Dr. Arun Sharma,Information Technology (IT),Associate Professor,12,4,3,4,23,16,3,5,1.44,2,Overloaded
+FAC_259,Dr. Kunal Reddy,Artificial Intelligence (AI-DS),Associate Professor,5,2,1,4,12,16,2,3,0.75,1,Balanced
+FAC_260,Dr. Deepa Menon,Computer Science (CSE),Associate Professor,12,4,3,4,23,16,3,5,1.44,2,Overloaded
+FAC_261,Dr. Sanjay Rao,Information Technology (IT),Associate Professor,9,4,3,7,23,16,3,4,1.44,2,Overloaded
+FAC_262,Dr. Divya Choudhury,Information Technology (IT),Assistant Professor,3,2,0,2,7,18,1,3,0.39,0,Underloaded
+FAC_263,Dr. Manish Kulkarni,Artificial Intelligence (AI-DS),Professor,3,1,1,3,8,14,1,3,0.57,0,Underloaded
+FAC_264,Dr. Amit Deshmukh,Electronics (ECE),Associate Professor,6,2,2,5,15,16,2,3,0.94,1,Balanced
+FAC_265,Dr. Divya Kulkarni,Electronics (ECE),Professor,5,1,4,2,12,14,2,3,0.86,1,Balanced
+FAC_266,Dr. Pooja Deshmukh,Electronics (ECE),Professor,5,0,3,5,13,14,2,3,0.93,1,Balanced
+FAC_267,Dr. Deepa Choudhury,Electronics (ECE),Assistant Professor,7,3,0,3,13,18,2,3,0.72,1,Balanced
+FAC_268,Dr. Sanjay Nair,Information Technology (IT),Associate Professor,11,4,4,3,22,16,3,5,1.38,2,Overloaded
+FAC_269,Dr. Sanjay Kulkarni,Electronics (ECE),Assistant Professor,11,6,1,3,21,18,3,5,1.17,2,Overloaded
+FAC_270,Dr. Ritu Kulkarni,Information Technology (IT),Assistant Professor,14,6,2,1,23,18,4,6,1.28,2,Overloaded
+FAC_271,Dr. Pooja Kulkarni,Electronics (ECE),Associate Professor,9,4,3,6,22,16,3,4,1.38,2,Overloaded
+FAC_272,Dr. Swati Deshmukh,Computer Science (CSE),Assistant Professor,9,5,1,2,17,18,3,4,0.94,1,Balanced
+FAC_273,Dr. Amit Singhal,Electronics (ECE),Professor,5,1,4,3,13,14,2,3,0.93,1,Balanced
+FAC_274,Dr. Amit Mishra,Electronics (ECE),Associate Professor,7,3,2,3,15,16,2,3,0.94,1,Balanced
+FAC_275,Dr. Swati Verma,Computer Science (CSE),Assistant Professor,7,4,0,3,14,18,2,4,0.78,1,Balanced
+FAC_276,Dr. Naveen Reddy,Artificial Intelligence (AI-DS),Assistant Professor,6,2,0,4,12,18,2,3,0.67,1,Balanced
+FAC_277,Dr. Swati Menon,Electronics (ECE),Associate Professor,8,2,3,3,16,16,2,3,1.0,1,Balanced
+FAC_278,Dr. Ritu Nair,Artificial Intelligence (AI-DS),Associate Professor,9,4,2,3,18,16,3,4,1.12,2,Overloaded
+FAC_279,Dr. Arun Mishra,Information Technology (IT),Associate Professor,5,2,1,4,12,16,2,3,0.75,1,Balanced
+FAC_280,Dr. Neha Iyer,Computer Science (CSE),Professor,5,0,4,3,12,14,2,3,0.86,1,Balanced
+FAC_281,Dr. Pooja Deshmukh,Information Technology (IT),Associate Professor,6,2,1,6,15,16,2,3,0.94,1,Balanced
+FAC_282,Dr. Naveen Singhal,Electronics (ECE),Professor,5,1,2,4,12,14,2,3,0.86,1,Balanced
+FAC_283,Dr. Vikram Gupta,Artificial Intelligence (AI-DS),Assistant Professor,11,6,1,2,20,18,3,5,1.11,2,Overloaded
+FAC_284,Dr. Kavita Kulkarni,Information Technology (IT),Associate Professor,7,3,2,3,15,16,2,3,0.94,1,Balanced
+FAC_285,Dr. Divya Reddy,Computer Science (CSE),Associate Professor,9,4,2,4,19,16,3,4,1.19,2,Overloaded
+FAC_286,Dr. Divya Verma,Information Technology (IT),Associate Professor,2,1,0,3,6,16,1,3,0.38,0,Underloaded
+FAC_287,Dr. Deepa Patel,Electronics (ECE),Associate Professor,8,3,3,2,16,16,2,4,1.0,1,Balanced
+FAC_288,Dr. Swati Deshmukh,Electronics (ECE),Associate Professor,4,2,1,2,9,16,1,3,0.56,0,Underloaded
+FAC_289,Dr. Ritu Patel,Information Technology (IT),Assistant Professor,16,7,1,3,27,18,4,6,1.5,2,Overloaded
+FAC_290,Dr. Alok Mishra,Electronics (ECE),Professor,4,0,3,5,12,14,1,3,0.86,1,Balanced
+FAC_291,Dr. Sneha Mishra,Electronics (ECE),Associate Professor,2,1,1,2,6,16,1,3,0.38,0,Underloaded
+FAC_292,Dr. Swati Iyer,Electronics (ECE),Associate Professor,9,3,2,4,18,16,3,4,1.12,2,Overloaded
+FAC_293,Dr. Ananya Mishra,Artificial Intelligence (AI-DS),Associate Professor,12,3,4,5,24,16,3,5,1.5,2,Overloaded
+FAC_294,Dr. Vikram Bose,Electronics (ECE),Professor,3,0,1,3,7,14,1,3,0.5,0,Underloaded
+FAC_295,Dr. Swati Joshi,Information Technology (IT),Associate Professor,6,3,2,3,14,16,2,3,0.88,1,Balanced
+FAC_296,Dr. Meera Nair,Information Technology (IT),Assistant Professor,12,6,0,1,19,18,3,6,1.06,2,Overloaded
+FAC_297,Dr. Suresh Menon,Information Technology (IT),Assistant Professor,14,7,0,4,25,18,4,6,1.39,2,Overloaded
+FAC_298,Dr. Deepa Reddy,Electronics (ECE),Professor,6,1,4,5,16,14,2,3,1.14,2,Overloaded
+FAC_299,Dr. Kavita Mishra,Electronics (ECE),Associate Professor,4,2,1,4,11,16,1,3,0.69,0,Underloaded
+FAC_300,Dr. Alok Bose,Computer Science (CSE),Assistant Professor,9,4,0,2,15,18,3,4,0.83,1,Balanced
+FAC_301,Dr. Neha Kulkarni,Information Technology (IT),Associate Professor,7,3,1,3,14,16,2,3,0.88,1,Balanced
+FAC_302,Dr. Naveen Mishra,Computer Science (CSE),Professor,9,3,5,5,22,14,3,4,1.57,2,Overloaded
+FAC_303,Dr. Alok Patel,Artificial Intelligence (AI-DS),Professor,6,1,4,8,19,14,2,3,1.36,2,Overloaded
+FAC_304,Dr. Meera Deshmukh,Computer Science (CSE),Associate Professor,6,2,1,4,13,16,2,3,0.81,1,Balanced
+FAC_305,Dr. Vikram Rao,Computer Science (CSE),Professor,4,0,2,5,11,14,1,3,0.79,0,Underloaded
+FAC_306,Dr. Priya Singhal,Information Technology (IT),Associate Professor,3,0,0,3,6,16,1,3,0.38,0,Underloaded
+FAC_307,Dr. Neha Patel,Electronics (ECE),Assistant Professor,12,6,0,3,21,18,3,6,1.17,2,Overloaded
+FAC_308,Dr. Kunal Sharma,Information Technology (IT),Associate Professor,6,2,1,4,13,16,2,3,0.81,1,Balanced
+FAC_309,Dr. Vikram Verma,Computer Science (CSE),Professor,4,1,2,4,11,14,1,3,0.79,0,Underloaded
+FAC_310,Dr. Suresh Menon,Artificial Intelligence (AI-DS),Assistant Professor,5,2,0,3,10,18,2,3,0.56,0,Underloaded
+FAC_311,Dr. Alok Sharma,Artificial Intelligence (AI-DS),Professor,5,0,2,5,12,14,2,3,0.86,1,Balanced
+FAC_312,Dr. Pooja Rao,Electronics (ECE),Professor,5,1,2,6,14,14,2,3,1.0,1,Balanced
+FAC_313,Dr. Kavita Kulkarni,Information Technology (IT),Associate Professor,10,5,4,4,23,16,3,5,1.44,2,Overloaded
+FAC_314,Dr. Amit Sharma,Computer Science (CSE),Professor,2,0,1,3,6,14,1,3,0.43,0,Underloaded
+FAC_315,Dr. Alok Singhal,Electronics (ECE),Assistant Professor,5,2,0,3,10,18,2,3,0.56,0,Underloaded
+FAC_316,Dr. Amit Gupta,Information Technology (IT),Associate Professor,5,2,2,3,12,16,2,3,0.75,1,Balanced
+FAC_317,Dr. Pooja Iyer,Information Technology (IT),Professor,5,0,3,5,13,14,2,3,0.93,1,Balanced
+FAC_318,Dr. Meera Deshmukh,Computer Science (CSE),Professor,2,0,1,3,6,14,1,3,0.43,0,Underloaded
+FAC_319,Dr. Shalini Joshi,Information Technology (IT),Associate Professor,7,2,2,3,14,16,2,3,0.88,1,Balanced
+FAC_320,Dr. Arun Singhal,Artificial Intelligence (AI-DS),Associate Professor,7,3,2,4,16,16,2,3,1.0,1,Balanced
+FAC_321,Dr. Ananya Rao,Information Technology (IT),Associate Professor,6,2,1,3,12,16,2,3,0.75,1,Balanced
+FAC_322,Dr. Shalini Sharma,Computer Science (CSE),Assistant Professor,3,1,0,2,6,18,1,3,0.33,0,Underloaded
+FAC_323,Dr. Ananya Singhal,Information Technology (IT),Associate Professor,6,2,1,5,14,16,2,3,0.88,1,Balanced
+FAC_324,Dr. Gaurav Iyer,Information Technology (IT),Professor,5,0,3,4,12,14,2,3,0.86,1,Balanced
+FAC_325,Dr. Neha Choudhury,Artificial Intelligence (AI-DS),Professor,4,1,3,5,13,14,1,3,0.93,1,Balanced
+FAC_326,Dr. Divya Menon,Electronics (ECE),Associate Professor,10,4,3,3,20,16,3,4,1.25,2,Overloaded
+FAC_327,Dr. Suresh Sharma,Electronics (ECE),Professor,6,1,4,3,14,14,2,3,1.0,1,Balanced
+FAC_328,Dr. Rajesh Reddy,Artificial Intelligence (AI-DS),Professor,4,1,4,3,12,14,1,3,0.86,1,Balanced
+FAC_329,Dr. Suresh Joshi,Computer Science (CSE),Professor,4,1,2,3,10,14,1,3,0.71,0,Underloaded
+FAC_330,Dr. Shalini Verma,Computer Science (CSE),Associate Professor,6,3,2,4,15,16,2,3,0.94,1,Balanced
+FAC_331,Dr. Suresh Menon,Artificial Intelligence (AI-DS),Associate Professor,7,3,1,4,15,16,2,3,0.94,1,Balanced
+FAC_332,Dr. Rohan Menon,Computer Science (CSE),Assistant Professor,5,2,0,3,10,18,2,3,0.56,0,Underloaded
+FAC_333,Dr. Arun Singhal,Computer Science (CSE),Associate Professor,9,3,3,5,20,16,3,4,1.25,2,Overloaded
+FAC_334,Dr. Amit Deshmukh,Artificial Intelligence (AI-DS),Assistant Professor,6,3,0,3,12,18,2,3,0.67,1,Balanced
+FAC_335,Dr. Alok Menon,Artificial Intelligence (AI-DS),Associate Professor,3,1,0,4,8,16,1,3,0.5,0,Underloaded
+FAC_336,Dr. Manish Mishra,Information Technology (IT),Professor,2,0,2,3,7,14,1,3,0.5,0,Underloaded
+FAC_337,Dr. Pooja Patel,Information Technology (IT),Assistant Professor,10,3,0,4,17,18,3,4,0.94,1,Balanced
+FAC_338,Dr. Amit Sharma,Computer Science (CSE),Professor,4,1,3,4,12,14,1,3,0.86,1,Balanced
+FAC_339,Dr. Priya Iyer,Electronics (ECE),Professor,9,1,4,7,21,14,3,3,1.5,2,Overloaded
+FAC_340,Dr. Meera Singhal,Information Technology (IT),Associate Professor,9,5,2,5,21,16,3,4,1.31,2,Overloaded
+FAC_341,Dr. Divya Menon,Artificial Intelligence (AI-DS),Associate Professor,9,4,2,9,24,16,3,4,1.5,2,Overloaded
+FAC_342,Dr. Vikram Menon,Computer Science (CSE),Assistant Professor,13,7,0,4,24,18,4,6,1.33,2,Overloaded
+FAC_343,Dr. Kunal Kulkarni,Electronics (ECE),Associate Professor,4,2,1,3,10,16,1,3,0.62,0,Underloaded
+FAC_344,Dr. Ananya Rao,Artificial Intelligence (AI-DS),Assistant Professor,10,6,0,5,21,18,3,5,1.17,2,Overloaded
+FAC_345,Dr. Shalini Iyer,Information Technology (IT),Associate Professor,10,5,4,4,23,16,3,5,1.44,2,Overloaded
+FAC_346,Dr. Sneha Menon,Artificial Intelligence (AI-DS),Assistant Professor,8,4,1,3,16,18,2,4,0.89,1,Balanced
+FAC_347,Dr. Kunal Patel,Information Technology (IT),Assistant Professor,15,5,0,6,26,18,4,6,1.44,2,Overloaded
+FAC_348,Dr. Ananya Menon,Information Technology (IT),Professor,6,0,2,5,13,14,2,3,0.93,1,Balanced
+FAC_349,Dr. Alok Deshmukh,Artificial Intelligence (AI-DS),Professor,5,1,3,2,11,14,2,3,0.79,0,Underloaded
+FAC_350,Dr. Kavita Verma,Artificial Intelligence (AI-DS),Assistant Professor,8,3,0,5,16,18,2,4,0.89,1,Balanced
+FAC_351,Dr. Sneha Singhal,Electronics (ECE),Assistant Professor,6,3,0,1,10,18,2,3,0.56,0,Underloaded
+FAC_352,Dr. Pooja Deshmukh,Electronics (ECE),Associate Professor,5,1,2,5,13,16,2,3,0.81,1,Balanced
+FAC_353,Dr. Kunal Reddy,Computer Science (CSE),Professor,5,1,4,4,14,14,2,3,1.0,1,Balanced
+FAC_354,Dr. Suresh Kulkarni,Computer Science (CSE),Professor,7,2,5,3,17,14,2,3,1.21,2,Overloaded
+FAC_355,Dr. Meera Kulkarni,Electronics (ECE),Professor,3,0,2,6,11,14,1,3,0.79,0,Underloaded
+FAC_356,Dr. Rajesh Iyer,Electronics (ECE),Associate Professor,6,2,1,4,13,16,2,3,0.81,1,Balanced
+FAC_357,Dr. Swati Reddy,Computer Science (CSE),Assistant Professor,11,4,1,6,22,18,3,5,1.22,2,Overloaded
+FAC_358,Dr. Neha Sharma,Artificial Intelligence (AI-DS),Associate Professor,3,1,1,3,8,16,1,3,0.5,0,Underloaded
+FAC_359,Dr. Swati Verma,Artificial Intelligence (AI-DS),Associate Professor,7,2,2,4,15,16,2,3,0.94,1,Balanced
+FAC_360,Dr. Divya Singhal,Information Technology (IT),Professor,4,1,4,3,12,14,1,3,0.86,1,Balanced
+FAC_361,Dr. Swati Joshi,Artificial Intelligence (AI-DS),Associate Professor,4,2,1,2,9,16,1,3,0.56,0,Underloaded
+FAC_362,Dr. Kavita Sharma,Electronics (ECE),Professor,8,1,4,9,22,14,2,3,1.57,2,Overloaded
+FAC_363,Dr. Neha Verma,Electronics (ECE),Assistant Professor,8,5,0,2,15,18,2,4,0.83,1,Balanced
+FAC_364,Dr. Naveen Reddy,Information Technology (IT),Associate Professor,6,2,1,4,13,16,2,3,0.81,1,Balanced
+FAC_365,Dr. Pooja Joshi,Computer Science (CSE),Professor,4,1,3,4,12,14,1,3,0.86,1,Balanced
+FAC_366,Dr. Kunal Menon,Computer Science (CSE),Assistant Professor,16,7,2,0,25,18,4,6,1.39,2,Overloaded
+FAC_367,Dr. Kunal Menon,Electronics (ECE),Associate Professor,5,2,2,3,12,16,2,3,0.75,1,Balanced
+FAC_368,Dr. Meera Patel,Computer Science (CSE),Assistant Professor,8,4,0,1,13,18,2,4,0.72,1,Balanced
+FAC_369,Dr. Deepa Verma,Electronics (ECE),Professor,8,1,5,3,17,14,2,3,1.21,2,Overloaded
+FAC_370,Dr. Amit Verma,Electronics (ECE),Associate Professor,6,3,1,4,14,16,2,3,0.88,1,Balanced
+FAC_371,Dr. Alok Singhal,Computer Science (CSE),Associate Professor,4,2,1,3,10,16,1,3,0.62,0,Underloaded
+FAC_372,Dr. Priya Nair,Artificial Intelligence (AI-DS),Assistant Professor,13,7,1,4,25,18,4,6,1.39,2,Overloaded
+FAC_373,Dr. Ritu Iyer,Information Technology (IT),Associate Professor,5,1,1,3,10,16,2,3,0.62,0,Underloaded
+FAC_374,Dr. Arun Menon,Computer Science (CSE),Assistant Professor,12,7,0,5,24,18,3,6,1.33,2,Overloaded
+FAC_375,Dr. Rohan Rao,Computer Science (CSE),Assistant Professor,5,2,0,1,8,18,2,3,0.44,0,Underloaded
+FAC_376,Dr. Rohan Singhal,Computer Science (CSE),Professor,4,1,2,2,9,14,1,3,0.64,0,Underloaded
+FAC_377,Dr. Ananya Deshmukh,Computer Science (CSE),Associate Professor,6,2,2,3,13,16,2,3,0.81,1,Balanced
+FAC_378,Dr. Sneha Gupta,Information Technology (IT),Assistant Professor,4,2,0,3,9,18,1,3,0.5,0,Underloaded
+FAC_379,Dr. Kavita Mishra,Electronics (ECE),Assistant Professor,3,1,0,2,6,18,1,3,0.33,0,Underloaded
+FAC_380,Dr. Ritu Bose,Artificial Intelligence (AI-DS),Professor,6,1,3,6,16,14,2,3,1.14,2,Overloaded
+FAC_381,Dr. Kunal Gupta,Information Technology (IT),Assistant Professor,8,3,1,2,14,18,2,4,0.78,1,Balanced
+FAC_382,Dr. Meera Sharma,Electronics (ECE),Assistant Professor,9,3,0,4,16,18,3,4,0.89,1,Balanced
+FAC_383,Dr. Neha Joshi,Electronics (ECE),Assistant Professor,13,7,1,5,26,18,4,6,1.44,2,Overloaded
+FAC_384,Dr. Divya Reddy,Computer Science (CSE),Professor,8,2,4,6,20,14,2,3,1.43,2,Overloaded
+FAC_385,Dr. Meera Nair,Electronics (ECE),Professor,9,1,6,4,20,14,3,3,1.43,2,Overloaded
+FAC_386,Dr. Naveen Choudhury,Information Technology (IT),Professor,7,1,4,3,15,14,2,3,1.07,2,Overloaded
+FAC_387,Dr. Meera Kulkarni,Information Technology (IT),Assistant Professor,7,3,0,4,14,18,2,3,0.78,1,Balanced
+FAC_388,Dr. Ananya Gupta,Artificial Intelligence (AI-DS),Assistant Professor,5,2,0,3,10,18,2,3,0.56,0,Underloaded
+FAC_389,Dr. Kavita Choudhury,Information Technology (IT),Assistant Professor,11,5,1,4,21,18,3,5,1.17,2,Overloaded
+FAC_390,Dr. Shalini Deshmukh,Artificial Intelligence (AI-DS),Assistant Professor,4,1,0,2,7,18,1,3,0.39,0,Underloaded
+FAC_391,Dr. Arun Bose,Artificial Intelligence (AI-DS),Associate Professor,5,2,1,4,12,16,2,3,0.75,1,Balanced
+FAC_392,Dr. Divya Verma,Electronics (ECE),Assistant Professor,10,5,0,3,18,18,3,5,1.0,1,Balanced
+FAC_393,Dr. Suresh Patel,Information Technology (IT),Associate Professor,10,5,2,7,24,16,3,5,1.5,2,Overloaded
+FAC_394,Dr. Amit Rao,Artificial Intelligence (AI-DS),Assistant Professor,5,2,0,4,11,18,2,3,0.61,0,Underloaded
+FAC_395,Dr. Sneha Deshmukh,Electronics (ECE),Assistant Professor,12,6,0,3,21,18,3,6,1.17,2,Overloaded
+FAC_396,Dr. Ritu Reddy,Computer Science (CSE),Professor,3,1,2,2,8,14,1,3,0.57,0,Underloaded
+FAC_397,Dr. Gaurav Gupta,Computer Science (CSE),Assistant Professor,6,4,0,3,13,18,2,3,0.72,1,Balanced
+FAC_398,Dr. Priya Reddy,Artificial Intelligence (AI-DS),Professor,9,1,5,4,19,14,3,3,1.36,2,Overloaded
+FAC_399,Dr. Gaurav Kulkarni,Electronics (ECE),Assistant Professor,15,6,1,2,24,18,4,6,1.33,2,Overloaded
+FAC_400,Dr. Sneha Reddy,Computer Science (CSE),Professor,4,0,3,5,12,14,1,3,0.86,1,Balanced
